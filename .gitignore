@@ -40,3 +40,4 @@ benchmark_files/
 *.tmp
 *.temp
 go/worker
+kotlin/worker.jar
